@@ -1,5 +1,5 @@
 //Find the missing number in an array
-//approach_1 : by Brute Force.
+
 package agustd;
 import java.util.*;
 public class MissingNum_1 {
